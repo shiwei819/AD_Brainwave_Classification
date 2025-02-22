@@ -1,89 +1,89 @@
-participant_id	Gender	Age	Group	MMSE
-sub-001	F	57	A	16
-sub-002	F	78	A	22
-sub-003	M	70	A	14
-sub-004	F	67	A	20
-sub-005	M	70	A	22
-sub-006	F	61	A	14
-sub-007	F	79	A	20
-sub-008	M	62	A	16
-sub-009	F	77	A	23
-sub-010	M	69	A	20
-sub-011	M	71	A	22
-sub-012	M	63	A	18
-sub-013	F	64	A	20
-sub-014	M	77	A	14
-sub-015	M	61	A	18
-sub-016	F	68	A	14
-sub-017	F	61	A	6
-sub-018	F	73	A	23
-sub-019	F	62	A	14
-sub-020	M	71	A	4
-sub-021	M	79	A	22
-sub-022	F	68	A	20
-sub-023	M	60	A	16
-sub-024	F	69	A	20
-sub-025	F	79	A	20
-sub-026	F	61	A	18
-sub-027	F	67	A	16
-sub-028	M	49	A	20
-sub-029	F	53	A	16
-sub-030	F	56	A	20
-sub-031	F	67	A	22
-sub-032	F	59	A	20
-sub-033	F	72	A	20
-sub-034	F	75	A	18
-sub-035	F	57	A	22
-sub-036	F	58	A	9
-sub-037	M	57	C	30
-sub-038	M	62	C	30
-sub-039	M	70	C	30
-sub-040	M	61	C	30
-sub-041	F	77	C	30
-sub-042	M	74	C	30
-sub-043	M	72	C	30
-sub-044	F	64	C	30
-sub-045	F	70	C	30
-sub-046	M	63	C	30
-sub-047	F	70	C	30
-sub-048	M	65	C	30
-sub-049	F	62	C	30
-sub-050	M	68	C	30 
-sub-051	F	75	C	30
-sub-052	F	73	C	30
-sub-053	M	70	C	30
-sub-054	M	78	C	30
-sub-055	M	67	C	30
-sub-056	F	64	C	30
-sub-057	M	64	C	30
-sub-058	M	62	C	30
-sub-059	M	77	C	30
-sub-060	F	71	C	30
-sub-061	F	63	C	30
-sub-062	M	67	C	30
-sub-063	M	66	C	30
-sub-064	M	66	C	30
-sub-065	F	71	C	30
-sub-066	M	73	F	20
-sub-067	M	66	F	24
-sub-068	M	78	F	25
-sub-069	M	70	F	22
-sub-070	F	67	F	22
-sub-071	M	62	F	20
-sub-072	M	65	F	18
-sub-073	F	57	F	22
-sub-074	F	53	F	20
-sub-075	F	71	F	22
-sub-076	M	44	F	24
-sub-077	M	61	F	22
-sub-078	M	62	F	22
-sub-079	F	60	F	18
-sub-080	F	71	F	20
-sub-081	F	61	F	18
-sub-082	M	63	F	27
-sub-083	F	68	F	20
-sub-084	F	71	F	24
-sub-085	M	64	F	26
-sub-086	M	49	F	26
-sub-087	M	73	F	24
-sub-088	M	55	F	24
+	participant_id	Gender	Age	Group	MMSE	Set
+0	sub-023	M	60	A	16	Train
+1	sub-021	M	79	A	22	Train
+2	sub-003	M	70	A	14	Train
+3	sub-020	M	71	A	4	Train
+4	sub-012	M	63	A	18	Train
+5	sub-008	M	62	A	16	Train
+6	sub-005	M	70	A	22	Train
+7	sub-028	M	49	A	20	Train
+8	sub-011	M	71	A	22	Train
+9	sub-015	M	61	A	18	Test
+10	sub-010	M	69	A	20	Test
+11	sub-014	M	77	A	14	Test
+12	sub-017	F	61	A	6	Train
+13	sub-029	F	53	A	16	Train
+14	sub-001	F	57	A	16	Train
+15	sub-031	F	67	A	22	Train
+16	sub-022	F	68	A	20	Train
+17	sub-018	F	73	A	23	Train
+18	sub-025	F	79	A	20	Train
+19	sub-002	F	78	A	22	Train
+20	sub-034	F	75	A	18	Train
+21	sub-009	F	77	A	23	Train
+22	sub-004	F	67	A	20	Train
+23	sub-024	F	69	A	20	Train
+24	sub-027	F	67	A	16	Train
+25	sub-006	F	61	A	14	Train
+26	sub-007	F	79	A	20	Train
+27	sub-035	F	57	A	22	Train
+28	sub-030	F	56	A	20	Train
+29	sub-033	F	72	A	20	Train
+30	sub-036	F	58	A	9	Train
+31	sub-016	F	68	A	14	Test
+32	sub-019	F	62	A	14	Test
+33	sub-026	F	61	A	18	Test
+34	sub-032	F	59	A	20	Test
+35	sub-013	F	64	A	20	Test
+36	sub-037	M	57	C	30	Train
+37	sub-038	M	62	C	30	Train
+38	sub-050	M	68	C	30	Train
+39	sub-043	M	72	C	30	Train
+40	sub-040	M	61	C	30	Train
+41	sub-058	M	62	C	30	Train
+42	sub-063	M	66	C	30	Train
+43	sub-062	M	67	C	30	Train
+44	sub-055	M	67	C	30	Train
+45	sub-039	M	70	C	30	Train
+46	sub-053	M	70	C	30	Train
+47	sub-064	M	66	C	30	Train
+48	sub-042	M	74	C	30	Train
+49	sub-057	M	64	C	30	Train
+50	sub-048	M	65	C	30	Test
+51	sub-054	M	78	C	30	Test
+52	sub-059	M	77	C	30	Test
+53	sub-046	M	63	C	30	Test
+54	sub-051	F	75	C	30	Train
+55	sub-041	F	77	C	30	Train
+56	sub-061	F	63	C	30	Train
+57	sub-065	F	71	C	30	Train
+58	sub-045	F	70	C	30	Train
+59	sub-044	F	64	C	30	Train
+60	sub-060	F	71	C	30	Train
+61	sub-049	F	62	C	30	Train
+62	sub-056	F	64	C	30	Test
+63	sub-047	F	70	C	30	Test
+64	sub-052	F	73	C	30	Test
+65	sub-082	M	63	F	27	Train
+66	sub-086	M	49	F	26	Train
+67	sub-066	M	73	F	20	Train
+68	sub-087	M	73	F	24	Train
+69	sub-072	M	65	F	18	Train
+70	sub-078	M	62	F	22	Train
+71	sub-068	M	78	F	25	Train
+72	sub-067	M	66	F	24	Train
+73	sub-088	M	55	F	24	Train
+74	sub-071	M	62	F	20	Train
+75	sub-077	M	61	F	22	Train
+76	sub-085	M	64	F	26	Test
+77	sub-069	M	70	F	22	Test
+78	sub-076	M	44	F	24	Test
+79	sub-083	F	68	F	20	Train
+80	sub-073	F	57	F	22	Train
+81	sub-080	F	71	F	20	Train
+82	sub-070	F	67	F	22	Train
+83	sub-084	F	71	F	24	Train
+84	sub-074	F	53	F	20	Train
+85	sub-079	F	60	F	18	Train
+86	sub-075	F	71	F	22	Test
+87	sub-081	F	61	F	18	Test
