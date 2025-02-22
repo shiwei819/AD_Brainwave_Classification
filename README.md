@@ -1,6 +1,6 @@
 # AD_Brainwave_Classification
 
-# Access Data
+## Access Data
 1. git clone from https://openneuro.org/datasets/ds004504/versions/1.0.8  
 2. install annex
     - mac: homebrew
