@@ -8,4 +8,4 @@
 3. To download for the full datasets: git annex get
 
 ## Reference
-[Alzheimer’s Disease and Frontotemporal Dementia: A Robust Classification Method of EEG Signals and a Comparison of Validation Methods](https://www.mdpi.com/2075-4418/11/8/1437)
+[A Dataset of Scalp EEG Recordings of Alzheimer’s Disease, Frontotemporal Dementia and Healthy Subjects from Routine EEG](https://www.mdpi.com/2306-5729/8/6/95)
